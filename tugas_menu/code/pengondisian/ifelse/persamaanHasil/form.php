@@ -4,7 +4,7 @@
         <link rel="stylesheet" href="../../../../css/style.css" />
     </head>
     <body>
-        <h4>Form Perbandingan Angka</h4> <br>
+        <h4>Form Perbandingan Angka</h4>
         <p>Jika angka 1 sama dengan angka 2, maka nilai sama tapi jika tidak maka nilai tidak sama</p>
         <form action="proses.php" method="post">
         angka 1 : <input type="number" name="bil1"><br>

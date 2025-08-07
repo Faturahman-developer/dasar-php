@@ -9,7 +9,7 @@
 <body>
 
 <div class="container">
-    <h1>If statement</h1> <br>
+    <h1>If statement</h1>
     <p>Jika angka 1 lebih besar dari angka 2, maka angka 1 ditambah dengan angka 2</p>
     <form action="proses.php" method="post">
         angka 1 : <input type="number" name="bil1"><br>
